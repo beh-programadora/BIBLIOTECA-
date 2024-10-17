@@ -1,0 +1,13 @@
+Estrutura do Dataset
+O dataset será representado como um arquivo CSV (clientes_seguros.csv) com as seguintes colunas:
+
+ID: Identificação única do cliente
+Nome: Nome do cliente
+Idade: Idade do cliente
+Gênero: Gênero do cliente (Masculino/Feminino)
+Estado Civil: Estado civil do cliente (Solteiro/Casado/Divorciado)
+Ocupação: Ocupação do cliente
+Renda Anual: Renda anual em reais
+Plano de Seguro: Tipo de plano de seguro contratado
+Data de Início: Data em que o plano foi contratado
+Status: Status do cliente (Ativo/Inativo)
