@@ -1,0 +1,42 @@
+# Nome do Projeto
+
+## Descrição do Projeto
+Este projeto tem como objetivo analisar e prever [descreva o que você está analisando e os objetivos]. 
+
+## Objetivos
+- Realizar análise exploratória de dados.
+- Treinar um modelo para [explicar o que o modelo faz].
+- Gerar visualizações para insights sobre os dados.
+
+## Requisitos do Sistema
+- Python 3.x
+- [Outros requisitos de sistema]
+
+## Bibliotecas
+As bibliotecas utilizadas no projeto estão listadas no arquivo `requirements.txt`.
+
+## Instruções de Execução
+1. Clone o repositório:
+   ```bash
+   git clone [URL do repositório]
+   cd SeuProjeto
+
+2. Instale as dependências:
+pip install -r requirements.txt
+
+3. Execute a análise:
+python SRC/main.py
+
+4. [Instruções adicionais para rodar modelos ou gerar gráficos]
+
+Resultados Principais
+[Incluir gráficos ou insights gerados]
+
+### 2. `requirements.txt`
+
+```plaintext
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
