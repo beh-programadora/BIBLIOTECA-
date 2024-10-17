@@ -1,0 +1,20 @@
+/SeuProjeto/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── /SRC/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── utils.py
+│   ├── visualizations.py
+│   ├── models.py
+│   └── analysis.py
+│
+└── /Dataset/
+    ├── dados_brutos/
+    │   └── dataset_original.csv
+    ├── dados_limpos/
+    │   └── dataset_limpo.csv
+    └── modelos/
+        └── modelo_treinado.pkl
