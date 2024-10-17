@@ -1,0 +1,24 @@
+# Biblioteca para manipulação de dados
+pandas==1.5.3
+
+# Biblioteca para manipulação de arrays e funções matemáticas
+numpy==1.23.5
+
+# Biblioteca para visualização de dados
+matplotlib==3.6.2
+seaborn==0.12.2
+
+# Biblioteca para aprendizado de máquina
+scikit-learn==1.2.1
+
+# Biblioteca para manipulação de datas
+python-dateutil==2.8.2
+
+# Biblioteca para estatísticas e análises
+statsmodels==0.13.5
+
+# Biblioteca para gráficos interativos
+plotly==5.14.1
+
+# Biblioteca para trabalhar com dados em formato JSON
+jsonschema==4.17.3
