@@ -1,0 +1,37 @@
+# Ignorar arquivos de dados brutos
+Dataset/dados_brutos/*.csv
+
+# Ignorar arquivos de dados limpos
+Dataset/dados_limpos/*.csv
+
+# Ignorar arquivos de modelos treinados
+Dataset/modelos/*.pkl
+
+# Ignorar arquivos de logs
+*.log
+
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambientes virtuais
+venv/
+env/
+.env
+
+# Ignorar arquivos de configuração do IDE
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.vscode/
+
+# Ignorar arquivos de cache de pacotes
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar outros arquivos temporários ou de sistema
+*.DS_Store
+*.bak
+*.tmp
+*.swp
+*.out
